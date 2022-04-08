@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="swood"
+version="1.0.0"
+displayName="可爱木剑"
+credits="https://afdian.net/@chenmy1903"
+displayURL="https://chenmy1903.github.io"
+authors="chenmy1903"
+description='''
+合成可爱木剑, 真·一刀999
+'''
+
+[[dependencies.swood]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

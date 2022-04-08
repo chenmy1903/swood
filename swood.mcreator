@@ -1,0 +1,150 @@
+{
+  "mod_elements": [
+    {
+      "name": "Stick1",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stick_1"
+    },
+    {
+      "name": "CraftStick1",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_stick_1"
+    },
+    {
+      "name": "Stick2",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stick_2"
+    },
+    {
+      "name": "CraftStick2",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_stick_2"
+    },
+    {
+      "name": "Stick3",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stick_3"
+    },
+    {
+      "name": "StartGame",
+      "type": "achievement",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "start_game"
+    },
+    {
+      "name": "CraftStick3",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_stick_3"
+    },
+    {
+      "name": "GetStick3",
+      "type": "achievement",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "get_stick_3"
+    },
+    {
+      "name": "Stick4",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stick_4"
+    },
+    {
+      "name": "SBStick",
+      "type": "tab",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sb_stick"
+    },
+    {
+      "name": "SBSwood",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sb_swood"
+    },
+    {
+      "name": "GetSBSwood",
+      "type": "achievement",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "get_sb_swood"
+    },
+    {
+      "name": "CraftSbSwood",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_sb_swood"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.swood.stick_1": "一级可爱木棍",
+      "item.swood.stick_3": "三级可爱木棍",
+      "item.swood.stick_2": "二级可爱木棍",
+      "itemGroup.tabsb_stick": "可爱木棍",
+      "item.swood.stick_4": "四级可爱木棍",
+      "advancements.get_stick_3.descr": "获得三级可爱木棍",
+      "advancements.start_game.descr": "获得一级可爱木棍",
+      "advancements.get_sb_swood.descr": "获取可爱木剑",
+      "item.swood.sb_swood": "可爱木剑",
+      "advancements.get_sb_swood.title": "真·一刀999?",
+      "advancements.start_game.title": "可爱木剑的起源!",
+      "advancements.get_stick_3.title": "快了, 就差一点了"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "swood",
+    "modName": "可爱木剑",
+    "version": "1.0.0",
+    "description": "合成可爱木剑, 真·一刀999",
+    "author": "chenmy1903",
+    "websiteURL": "https://chenmy1903.github.io",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "https://afdian.net/@chenmy1903",
+    "modElementsPackage": "com.nkwjg.swood",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

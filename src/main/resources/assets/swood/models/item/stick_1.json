@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "swood:items/stick_je1_be1_-_fu_ben_1"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sb_swood",
+    "customModelName": "Normal",
+    "name": "¿É°®Ä¾½£",
+    "specialInfo": [
+      "ÕæÒ»µ¶999"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 4.0,
+    "attackSpeed": 7.5,
+    "enchantability": 2,
+    "damageVsEntity": 999.0,
+    "usageCount": 114514,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
