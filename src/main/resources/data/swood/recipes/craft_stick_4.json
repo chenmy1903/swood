@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swood:stick_3"
+    },
+    "1": {
+      "item": "swood:stick_3"
+    },
+    "2": {
+      "item": "swood:stick_3"
+    },
+    "3": {
+      "item": "swood:stick_3"
+    },
+    "4": {
+      "item": "swood:stick_3"
+    },
+    "5": {
+      "item": "swood:stick_3"
+    },
+    "6": {
+      "item": "swood:stick_3"
+    },
+    "7": {
+      "item": "swood:stick_3"
+    },
+    "8": {
+      "item": "swood:stick_3"
+    }
+  },
+  "result": {
+    "item": "swood:stick_4",
+    "count": 1
+  }
+}

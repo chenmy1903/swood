@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Stick3"
+      },
+      {
+        "value": "CUSTOM:Stick3"
+      },
+      {
+        "value": "CUSTOM:Stick3"
+      },
+      {
+        "value": "CUSTOM:Stick3"
+      },
+      {
+        "value": "CUSTOM:Stick3"
+      },
+      {
+        "value": "CUSTOM:Stick3"
+      },
+      {
+        "value": "CUSTOM:Stick3"
+      },
+      {
+        "value": "CUSTOM:Stick3"
+      },
+      {
+        "value": "CUSTOM:Stick3"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Stick4"
+    },
+    "name": "craft_stick_4",
+    "namespace": "mod"
+  }
+}

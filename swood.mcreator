@@ -103,6 +103,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "craft_sb_swood"
+    },
+    {
+      "name": "CraftStick4",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_stick_4"
     }
   ],
   "variable_elements": [],
