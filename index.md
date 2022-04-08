@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# 可爱木棍官网
 
-You can use the [editor on GitHub](https://github.com/chenmy1903/swood/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> 本作品已经开源, 可以点击上面的链接去看源代码仓库
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 下载
 
-### Markdown
+本模组已在网易我的世界上架, 搜索`可爱木棍`即可游玩
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[国际版点我下载Jar包](https://github.com/chenmy1903/swood/releases)
 
-```markdown
-Syntax highlighted code block
+## 游玩方法
 
-# Header 1
-## Header 2
-### Header 3
+> 本人第一次做Mod, 所以贴图不咋好看, 请见谅
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenmy1903/swood/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. 下载并安装本Mod
+2. 启动游戏
+3. 进入游戏撸木头
+4. 通过9个`木棍`就可以合成一个`一级可爱木棍`
+5. 通过9个`一级可爱木棍`就可以合成一个`二级可爱木棍`
