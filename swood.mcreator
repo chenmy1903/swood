@@ -111,6 +111,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "craft_stick_4"
+    },
+    {
+      "name": "GUI",
+      "type": "code",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gui"
     }
   ],
   "variable_elements": [],
