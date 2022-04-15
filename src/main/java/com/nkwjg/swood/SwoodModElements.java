@@ -17,7 +17,6 @@ import net.minecraftforge.api.distmarker.OnlyIn;
 import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.util.ResourceLocation;
-import net.minecraft.tags.Tag;
 import net.minecraft.network.PacketBuffer;
 import net.minecraft.item.Item;
 import net.minecraft.entity.EntityType;

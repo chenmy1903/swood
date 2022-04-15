@@ -4,11 +4,10 @@ license="Academic Free License v3.0"
 
 [[mods]]
 modId="swood"
-version="1.0.2"
-displayName="Swood"
+version="1.0.0"
+displayName="可爱木剑"
 credits="https://afdian.net/@chenmy1903"
 displayURL="https://chenmy1903.github.io"
-logoFile="logo.png"
 authors="chenmy1903"
 description='''
 合成可爱木剑, 真·一刀999
